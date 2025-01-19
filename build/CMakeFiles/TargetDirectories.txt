@@ -1,0 +1,4 @@
+/Users/admi/Documents/TestCase/build/CMakeFiles/calculate.dir
+/Users/admi/Documents/TestCase/build/CMakeFiles/test_calculate.dir
+/Users/admi/Documents/TestCase/build/CMakeFiles/edit_cache.dir
+/Users/admi/Documents/TestCase/build/CMakeFiles/rebuild_cache.dir
