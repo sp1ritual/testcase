@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/admi/Documents/TestCase/build",
+  "command": "/usr/bin/clang++ -Dcalculate_EXPORTS -I/Users/admi/Documents/TestCase/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -fPIC -o CMakeFiles/calculate.dir/libs/calculate.cpp.o -c /Users/admi/Documents/TestCase/libs/calculate.cpp",
+  "file": "/Users/admi/Documents/TestCase/libs/calculate.cpp",
+  "output": "CMakeFiles/calculate.dir/libs/calculate.cpp.o"
+},
+{
+  "directory": "/Users/admi/Documents/TestCase/build",
+  "command": "/usr/bin/clang++ -I/Users/admi/Documents/TestCase/include -isystem /usr/local/Cellar/googletest/1.15.2/include -g -std=gnu++14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/test_calculate.dir/tests/test_calculate.cpp.o -c /Users/admi/Documents/TestCase/tests/test_calculate.cpp",
+  "file": "/Users/admi/Documents/TestCase/tests/test_calculate.cpp",
+  "output": "CMakeFiles/test_calculate.dir/tests/test_calculate.cpp.o"
+},
+{
+  "directory": "/Users/admi/Documents/TestCase/build",
+  "command": "/usr/bin/clang++ -I/Users/admi/Documents/TestCase/include -isystem /usr/local/Cellar/googletest/1.15.2/include -g -std=gnu++14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/test_calculate.dir/libs/calculate.cpp.o -c /Users/admi/Documents/TestCase/libs/calculate.cpp",
+  "file": "/Users/admi/Documents/TestCase/libs/calculate.cpp",
+  "output": "CMakeFiles/test_calculate.dir/libs/calculate.cpp.o"
+},
+{
+  "directory": "/Users/admi/Documents/TestCase/build",
+  "command": "/usr/bin/clang++ -I/Users/admi/Documents/TestCase/include -isystem /usr/local/Cellar/googletest/1.15.2/include -g -std=gnu++14 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/test_calculate.dir/src/program1.cpp.o -c /Users/admi/Documents/TestCase/src/program1.cpp",
+  "file": "/Users/admi/Documents/TestCase/src/program1.cpp",
+  "output": "CMakeFiles/test_calculate.dir/src/program1.cpp.o"
+}
+]
